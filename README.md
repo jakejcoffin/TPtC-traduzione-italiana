@@ -68,7 +68,7 @@ Se avevi già installato una versione precedente: esegui `RIPRISTINA_ORIGINALI.b
 
 Progetto non ufficiale, fatto da fan e senza scopo di lucro. *The Procession to Calvary* è di Joe Richardson / Joe Richardson Games. Questo repository non contiene file del gioco e non va usato su copie piratate. Se l'autore chiede di ritirarlo, verrà ritirato.
 
-Traduzione realizzata con l'assistenza di Claude (Anthropic). Autore del pacchetto: **[INSERISCI IL TUO NOME]**.
+Autore del pacchetto: **daunbailo_**.
 
 ---
 
