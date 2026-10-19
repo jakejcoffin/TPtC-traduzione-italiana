@@ -4,7 +4,6 @@
 >
 > 🇬🇧 *Unofficial fan-made Italian translation of **The Procession to Calvary** (Steam, Windows, game version **1.2**).*
 
-![Icona](Icona_Traduzione_ITA_195x195.png)
 
 <img width="195" height="195" alt="Icona_Traduzione_ITA_195x195" src="https://github.com/user-attachments/assets/c209d0be-7513-428f-8e68-6d6dc68e9569" />
 
