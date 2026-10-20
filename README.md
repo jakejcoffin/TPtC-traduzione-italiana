@@ -10,7 +10,7 @@
 
 ## ⬇️ Download
 
-**[Scarica l'ultima versione / Download the latest version]([../../releases/latest](https://github.com/jakejcoffin/TPtC-traduzione-italiana/blob/main/TPtC_Traduzione_ITA_v1.2.zip))**
+**[Scarica l'ultima versione / Download the latest version]**
 
 Scarica il file `TPtC_Traduzione_ITA_v1.2.zip`
 
